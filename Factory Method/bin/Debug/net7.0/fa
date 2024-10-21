@@ -1,0 +1,3 @@
+student id:1|name:1|courses:1
+teacher id:1|name:1|experience:1|courses:1
+course id:1|name:1|teacher_id:1|students:1
