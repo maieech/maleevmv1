@@ -1,0 +1,14 @@
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Composite Pattern\bin\Debug\net6.0\Composite Pattern.exe
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Composite Pattern\bin\Debug\net6.0\Composite Pattern.deps.json
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Composite Pattern\bin\Debug\net6.0\Composite Pattern.runtimeconfig.json
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Composite Pattern\bin\Debug\net6.0\Composite Pattern.dll
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Composite Pattern\bin\Debug\net6.0\Composite Pattern.pdb
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Composite Pattern\obj\Debug\net6.0\Composite Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Composite Pattern\obj\Debug\net6.0\Composite Pattern.AssemblyInfoInputs.cache
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Composite Pattern\obj\Debug\net6.0\Composite Pattern.AssemblyInfo.cs
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Composite Pattern\obj\Debug\net6.0\Composite Pattern.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Composite Pattern\obj\Debug\net6.0\Composite Pattern.dll
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Composite Pattern\obj\Debug\net6.0\refint\Composite Pattern.dll
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Composite Pattern\obj\Debug\net6.0\Composite Pattern.pdb
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Composite Pattern\obj\Debug\net6.0\Composite Pattern.genruntimeconfig.cache
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Composite Pattern\obj\Debug\net6.0\ref\Composite Pattern.dll
