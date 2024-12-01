@@ -1,0 +1,14 @@
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Command Pattern\bin\Debug\net6.0\Command Pattern.exe
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Command Pattern\bin\Debug\net6.0\Command Pattern.deps.json
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Command Pattern\bin\Debug\net6.0\Command Pattern.runtimeconfig.json
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Command Pattern\bin\Debug\net6.0\Command Pattern.dll
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Command Pattern\bin\Debug\net6.0\Command Pattern.pdb
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Command Pattern\obj\Debug\net6.0\Command Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Command Pattern\obj\Debug\net6.0\Command Pattern.AssemblyInfoInputs.cache
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Command Pattern\obj\Debug\net6.0\Command Pattern.AssemblyInfo.cs
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Command Pattern\obj\Debug\net6.0\Command Pattern.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Command Pattern\obj\Debug\net6.0\Command Pattern.dll
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Command Pattern\obj\Debug\net6.0\refint\Command Pattern.dll
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Command Pattern\obj\Debug\net6.0\Command Pattern.pdb
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Command Pattern\obj\Debug\net6.0\Command Pattern.genruntimeconfig.cache
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Command Pattern\obj\Debug\net6.0\ref\Command Pattern.dll

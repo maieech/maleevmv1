@@ -1,0 +1,14 @@
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Chain of Responsibility Pattern\bin\Debug\net6.0\Chain of Responsibility Pattern.exe
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Chain of Responsibility Pattern\bin\Debug\net6.0\Chain of Responsibility Pattern.deps.json
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Chain of Responsibility Pattern\bin\Debug\net6.0\Chain of Responsibility Pattern.runtimeconfig.json
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Chain of Responsibility Pattern\bin\Debug\net6.0\Chain of Responsibility Pattern.dll
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Chain of Responsibility Pattern\bin\Debug\net6.0\Chain of Responsibility Pattern.pdb
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Chain of Responsibility Pattern\obj\Debug\net6.0\Chain of Responsibility Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Chain of Responsibility Pattern\obj\Debug\net6.0\Chain of Responsibility Pattern.AssemblyInfoInputs.cache
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Chain of Responsibility Pattern\obj\Debug\net6.0\Chain of Responsibility Pattern.AssemblyInfo.cs
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Chain of Responsibility Pattern\obj\Debug\net6.0\Chain of Responsibility Pattern.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Chain of Responsibility Pattern\obj\Debug\net6.0\Chain of Responsibility Pattern.dll
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Chain of Responsibility Pattern\obj\Debug\net6.0\refint\Chain of Responsibility Pattern.dll
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Chain of Responsibility Pattern\obj\Debug\net6.0\Chain of Responsibility Pattern.pdb
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Chain of Responsibility Pattern\obj\Debug\net6.0\Chain of Responsibility Pattern.genruntimeconfig.cache
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Chain of Responsibility Pattern\obj\Debug\net6.0\ref\Chain of Responsibility Pattern.dll
