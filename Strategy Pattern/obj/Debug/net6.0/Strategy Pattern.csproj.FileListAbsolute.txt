@@ -1,0 +1,14 @@
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Strategy Pattern\bin\Debug\net6.0\Strategy Pattern.exe
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Strategy Pattern\bin\Debug\net6.0\Strategy Pattern.deps.json
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Strategy Pattern\bin\Debug\net6.0\Strategy Pattern.runtimeconfig.json
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Strategy Pattern\bin\Debug\net6.0\Strategy Pattern.dll
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Strategy Pattern\bin\Debug\net6.0\Strategy Pattern.pdb
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Strategy Pattern\obj\Debug\net6.0\Strategy Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Strategy Pattern\obj\Debug\net6.0\Strategy Pattern.AssemblyInfoInputs.cache
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Strategy Pattern\obj\Debug\net6.0\Strategy Pattern.AssemblyInfo.cs
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Strategy Pattern\obj\Debug\net6.0\Strategy Pattern.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Strategy Pattern\obj\Debug\net6.0\Strategy Pattern.dll
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Strategy Pattern\obj\Debug\net6.0\refint\Strategy Pattern.dll
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Strategy Pattern\obj\Debug\net6.0\Strategy Pattern.pdb
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Strategy Pattern\obj\Debug\net6.0\Strategy Pattern.genruntimeconfig.cache
+C:\Users\DESKTOP\Desktop\ЛАБЫ РПМ 3 КУРС\Strategy Pattern\obj\Debug\net6.0\ref\Strategy Pattern.dll
