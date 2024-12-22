@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AQzUZ4C5xtMt0QNZGsbQ0NqPU/2JTzkwYJxPtkvrfc7Hl+Ge9xa+8Dw0Z5P3OVW7FP5WXc1u/cga0MSgfkZmhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DESKTOP\\Desktop\\ЛАБЫ РПМ 3 КУРС\\proekt\\proekt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DESKTOP\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}
