@@ -1,0 +1,16 @@
+﻿<Window x:Class="ServiceCenterApp.AssignMasterForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Назначить мастера" Height="250" Width="400">
+    <Grid>
+        <Label Content="Выберите мастера:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0"/>
+        <ComboBox Name="cbMasters" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="150,10,10,0" Width="200">
+            <ComboBoxItem>Мастер 1</ComboBoxItem>
+            <ComboBoxItem>Мастер 2</ComboBoxItem>
+            <ComboBoxItem>Мастер 3</ComboBoxItem>
+        </ComboBox>
+        
+        <Button Name="btnAssign" Content="Назначить" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="100" Height="40" Margin="0,0,10,10" Click="BtnAssign_Click"/>
+    </Grid>
+</Window>
+
